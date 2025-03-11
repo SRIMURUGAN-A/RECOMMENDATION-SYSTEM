@@ -37,3 +37,6 @@ The top-N highest-rated items are returned as recommendations.
 Example Usage
 
 The script calls the get_top_n_recommendations function for User 1, retrieving and displaying the top 3 recommended items.
+
+
+OUTPUT :  ![Image](https://github.com/user-attachments/assets/3c0d24c6-84ba-4cf0-946a-21766b85f00d)
